@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b875162df97c53941b9362783fd1ebd1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicAus: {instanceID: 0}
+  - soundAus: {instanceID: 0}
+  - playerAtk: {fileID: 8300000, guid: 7f6d0027d845ee94dbc5c058657175da, type: 3}
+  - enemyDead: {fileID: 8300000, guid: 887b68aa44887bd4eba9d0c5f36c6f7d, type: 3}
+  - gameover: {fileID: 8300000, guid: 5ddc752693e53e84b8060e28794cbe60, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
